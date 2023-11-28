@@ -1,5 +1,5 @@
 # SQuAD-SRC
-This repository contains the dataset introduced in the paper [SQuAD-SRC: A Dataset for Multi-Accent Spoken Reading Comprehension](https://www.ijcai.org/proceedings/2023/0578.pdf) (IJCAI 2023). Please download the data here (Please contact the authors).
+This repository contains the dataset introduced in the paper [SQuAD-SRC: A Dataset for Multi-Accent Spoken Reading Comprehension](https://www.ijcai.org/proceedings/2023/0578.pdf) (IJCAI 2023). Please download the data [here](https://drive.google.com/drive/folders/1HGf0A1GtwCSoc96Xxgg9d9iT_urLIFMR).
 
 SQuAD-SRC is an open-source, large-scale, naturally recorded, multi-accent spoken reading comprehension dataset. The objective is to predict the answer from the text-form context according to spoken queries. 
 
