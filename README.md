@@ -21,5 +21,5 @@ To encourage accent diversity, the audio utterances in SQuAD-SRC are recorded by
 | Female | 1,2,5,6,9,10,13,14,17,18,21,22  |
 | Male | 3,4,7,8,11,12,15,16,19,20,23,24  |
 
-SQuAD-SRC poses new challenges for spoken reading comprehension, including addressing the semantic gap between two modalities, and the complexity and variations associated with complex human voices.
+SQuAD-SRC poses new challenges for spoken reading comprehension, including addressing the semantic gap between two modalities, and the complexity and variations associated with complex human voices. Besides spoken reading comprehension, it's also suitable for evaluating ASR, contextualized ASR, speaker recognition, etc.
 
