@@ -23,3 +23,7 @@ To encourage accent diversity, the audio utterances in SQuAD-SRC are recorded by
 
 SQuAD-SRC poses new challenges for spoken reading comprehension, including addressing the semantic gap between two modalities, and the complexity and variations associated with complex human voices. Besides spoken reading comprehension, it's also suitable for evaluating ASR, contextualized ASR, speaker recognition, etc.
 
+
+## License
+
+The data and original code in this repository are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) License.
